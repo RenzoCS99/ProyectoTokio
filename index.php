@@ -6,7 +6,8 @@
     if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $numero1 = $_POST['txtNumero1'];
         $numero2 = $_POST['txtNumero2'];
-        $suma = $numero1 + $numero2;
+        $n3;
+
         
     }
 ?>
